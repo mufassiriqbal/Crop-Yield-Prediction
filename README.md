@@ -34,5 +34,5 @@ You can extend it with real-world datasets such as:
 
 ### 1. Clone Repository  
 ```bash
-git clone https://github.com/your-username/crop-yield-prediction.git
-cd crop-yield-prediction
+git clone https://github.com/mufassiriqbal/Crop-Yield-Prediction.git
+cd Crop-Yield-Prediction
