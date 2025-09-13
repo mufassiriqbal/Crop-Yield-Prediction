@@ -15,7 +15,7 @@ It uses **Machine Learning (Random Forest Classifier & Regressor)** with a **Gra
 ---
 
 ## ⚙️ Tech Stack  
-- **Python 3.9+**  
+- **Python 3.9+** 
 - **Pandas, NumPy** (data handling)  
 - **Scikit-learn** (ML models)  
 - **Gradio** (Web UI)  
